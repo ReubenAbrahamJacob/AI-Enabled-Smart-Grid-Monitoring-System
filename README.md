@@ -2,7 +2,6 @@
 
 A complete end-to-end AI platform for real-time smart grid management, featuring anomaly detection, load forecasting, predictive maintenance, and a live web dashboard.
 
-Built by **Reuben Abraham Jacob**
 
 ---
 ## Project Overview
