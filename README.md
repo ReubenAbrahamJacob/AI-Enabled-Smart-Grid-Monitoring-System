@@ -3,7 +3,8 @@
 A complete end-to-end AI platform for real-time smart grid management, featuring anomaly detection, load forecasting, predictive maintenance, and a live web dashboard.
 
 <img width="1512" height="861" alt="Screenshot 2026-03-19 at 12 50 27 PM" src="https://github.com/user-attachments/assets/653a091c-292c-4ac8-8bbb-37e6ac645bf3" />
----
+
+
 ## Project Overview
 
 Power grids are continuously monitored for faults and abnormal conditions. Traditional monitoring systems raise alarms only when predefined thresholds are crossed — they react to problems but cannot predict them.
