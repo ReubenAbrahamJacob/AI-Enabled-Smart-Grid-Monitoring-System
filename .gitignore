@@ -1,0 +1,9 @@
+*.pkl
+*.csv
+*.png
+*.keras
+*.ipynb
+__pycache__/
+venv/
+.ipynb_checkpoints/
+.DS_Store
