@@ -6,7 +6,6 @@ Author: Reuben Abraham Jacob
 Module 2 - Anomaly Detection
 Uses Isolation Forest to detect voltage faults and power factor
 degradation in smart grid sensor readings.
-Precision: 0.93, Recall: 0.95, F1: 0.94
 """
 
 import numpy as np
