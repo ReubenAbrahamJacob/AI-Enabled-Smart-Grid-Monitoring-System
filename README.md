@@ -45,6 +45,7 @@ Sensor Data (Voltage, Current, PF, Active/Reactive Power, Frequency)
 
 ### Module 1 - Data Generation
 Synthetic smart grid data simulating 30 days of electrical sensor readings at 15-minute intervals. Includes realistic day/night load patterns, injected fault anomalies (2%), and gradual equipment degradation events.
+<img width="2090" height="1770" alt="smart_grid_overview" src="https://github.com/user-attachments/assets/adac44f3-81f9-4b6f-9d1d-943aba76baba" />
 
 ### Module 2 - Anomaly Detection
 Isolation Forest model detecting voltage faults and power factor degradation in real time.
