@@ -1,8 +1,8 @@
-<img width="1512" height="861" alt="Screenshot 2026-03-19 at 12 50 27 PM" src="https://github.com/user-attachments/assets/b85ceada-7614-4ccc-ae40-4e30896d880e" /># AI-Enabled Smart Grid Monitoring System
+# AI-Enabled Smart Grid Monitoring System
 
 A complete end-to-end AI platform for real-time smart grid management, featuring anomaly detection, load forecasting, predictive maintenance, and a live web dashboard.
 
-
+<img width="1512" height="861" alt="Screenshot 2026-03-19 at 12 50 27 PM" src="https://github.com/user-attachments/assets/653a091c-292c-4ac8-8bbb-37e6ac645bf3" />
 ---
 ## Project Overview
 
@@ -17,7 +17,7 @@ This project builds an AI-enabled smart grid monitoring system that goes beyond 
 
 The system is currently built on synthetic smart grid data modeled after realistic electrical load patterns. The next phase involves building a real sensor circuit using Arduino with CT and PT transducers, collecting real electrical data, and retraining all models on real data to compare performance against the synthetic baseline. The complete system will then be deployed on an NVIDIA Jetson Orin Nano for standalone edge inference — enabling the system to run independently without a laptop, directly alongside the electrical panel.
 
-<img width="1512" height="861" alt="Screenshot 2026-03-19 at 12 50 27 PM" src="https://github.com/user-attachments/assets/653a091c-292c-4ac8-8bbb-37e6ac645bf3" />
+
 <img width="1494" height="863" alt="Screenshot 2026-03-19 at 12 50 37 PM" src="https://github.com/user-attachments/assets/e3c58720-7b84-4aa3-91e8-0890db378126" />
 
 
